@@ -5,13 +5,13 @@ import './App.css'
 
 const modellist = [
   {name:"car",
-    path: './assets/models/aston_martin_v8_vantage_v600.glb'
+    path: '/models/aston_martin_v8_vantage_v600.glb'
   },
   {name:"brake",
-    path: './assets/models/free_-_brake_caliper_brembo.glb'
+    path: '/models/free_-_brake_caliper_brembo.glb'
   },
   {name:"bee",
-    path: './assets/models/stylized_flying_bee_bird_rigged.glb'
+    path: '/models/stylized_flying_bee_bird_rigged.glb'
   }
 ]
 
